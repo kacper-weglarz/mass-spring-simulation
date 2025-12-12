@@ -3,7 +3,7 @@
 Physics simulation of a ball bouncing on a spring. Watch it stretch, compress, and oscillate with real gravity and spring forces.
 
 ![Mass Spring Simulation](MassSpringSimulation.gif)
-
+w
 ---
 
 ## What It Does
